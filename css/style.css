@@ -1,0 +1,214 @@
+/* All common css satart */
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+.container{
+   width: 1320px;
+   margin: 0 auto;
+}
+/* All common css satart */
+
+
+
+/* menu sart*/
+#countdownn{
+    background:url(../Images/kk.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.overly{
+    padding-top: 120px;
+    padding-bottom: 200px;
+    background: rgba(0, 0, 0, 0.726);
+}
+
+.menu{
+    text-align: center;
+    background: rgba(3, 146, 3, 0.418);
+    border-right: 13px solid #fff;
+    border-left: 13px solid #fff;
+    height: 80px;
+    border-radius: 20px;
+}
+.menu h1{
+    padding-top: 15px;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight:500;
+    font-size: 35px;
+    font-family: 'Abril Fatface', cursive;
+}
+
+
+.countar_itam{
+    height: 90px;
+    width: 300px;
+    background:rgba(19, 207, 28, 0.74);
+    border-radius: 15px;
+    text-align: center;
+    color: black;
+    font-weight: 700;
+    font-family: 'Raleway', sans-serif;
+    border-left: 10px solid #666;
+    border-right: 13px solid #666;
+    text-transform: uppercase;
+}
+
+.counter_part{
+    padding-top: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+/* menu end */
+
+/* banner end */
+#muslime{
+    background:url(../Images/ppp.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.overla{
+    padding: 50px 0; 
+    padding-bottom: 200px;
+    background: rgba(0, 0, 0, 0.726);
+}
+
+
+.Pepole_part{
+    height: 80px;
+    width: 280px;
+    background:rgba(192, 145, 14, 0.527);
+    border-radius: 15px;
+    text-align: center;
+    color: #fff;
+    border-left: 10px solid rgb(2, 85, 27);
+    border-right: 13px solid rgb(2, 85, 27);
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+}
+
+.banner_part{
+    padding-top: 160px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.name h1{
+    padding-top: 15px;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.986);
+    font-weight:500;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    /* background: rgba(0, 0, 0, 0.712); */
+}
+/* banner end */
+
+#pk_part{
+    background:url(../Images/ramadan2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.overlae{
+    /* padding: 50px 0;  */
+    height: 600px;
+    padding-bottom: 200px;
+    background: rgba(0, 0, 0, 0.76);
+}
+
+.Slide_part{
+    height: 350px;
+    width: 310px;
+    background:rgba(19, 207, 28, 0.74);
+    border-radius: 10px;
+    border: 2px solid #fff;
+}
+.pkkk{
+    padding-top: 160px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Slide_part img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+/* siled part end */
+
+
+
+
+#pictur_part{
+    background:url(../Images/clip-28340-saudi-arabian-gulf-family-sitting-shaza-hotel-restaurant-sa-thumbnail.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.overle{
+    /* padding: 50px 0;  */
+    height: 600px;
+    padding-bottom: 200px;
+    background: rgba(0, 0, 0, 0.76);
+}
+
+
+.animisson{
+    height: 390px;
+    width: 420px;
+    background:rgba(19, 207, 28, 0.74);
+    border-radius: 15px;
+    color: black;
+    border: 4px solid #fff;
+}
+
+.photo{
+    padding-top: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.animisson img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+#Video_part{
+    background:url(../Images/pexels-becca-siegel-1659293.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.overley{
+    padding: 350px 0; 
+    background: rgba(0, 0, 0, 0.623);
+}
+.Play{
+    text-align: center;
+}
+i{
+    font-size: 60px;
+    color: #fff;
+}

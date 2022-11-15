@@ -1,0 +1,9 @@
+https://github.com/Limondofader/class-18/blob/main/js/script.js
+
+
+
+    font-family: 'Abril Fatface', cursive;
+
+    font-family: 'Playfair Display', serif;
+
+    font-family: 'Raleway', sans-serif;
